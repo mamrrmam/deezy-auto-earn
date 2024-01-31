@@ -1,6 +1,8 @@
 # deezy-auto-earn
 automatically open channels to deezy, push sats through, and earn
 
+this branch is an attempt to produce support for kraken using api keys. they must be taken from your own kraken account and added in clients/API_PUBLIC_KEY and clients/API_PRIVATE_KEY respectively in order to support nodejs requests.
+
 ## setup
 ```
 git clone git@github.com:dannydeezy/deezy-auto-earn.git
